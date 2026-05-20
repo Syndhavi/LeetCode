@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Syndhavi/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0189-rotate-array](https://github.com/Syndhavi/LeetCode/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Syndhavi/LeetCode/tree/master/0189-rotate-array) |
 | [0493-reverse-pairs](https://github.com/Syndhavi/LeetCode/tree/master/0493-reverse-pairs) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Syndhavi/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Binary Search
@@ -58,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Syndhavi/LeetCode/tree/master/0493-reverse-pairs) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Syndhavi/LeetCode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
