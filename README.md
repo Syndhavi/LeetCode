@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Syndhavi/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Syndhavi/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/Syndhavi/LeetCode/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/Syndhavi/LeetCode/tree/master/0054-spiral-matrix) |
 | [0136-single-number](https://github.com/Syndhavi/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Syndhavi/LeetCode/tree/master/0189-rotate-array) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Syndhavi/LeetCode/tree/master/0035-search-insert-position) |
 | [0493-reverse-pairs](https://github.com/Syndhavi/LeetCode/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/Syndhavi/LeetCode/tree/master/0704-binary-search) |
 ## Divide and Conquer
