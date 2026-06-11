@@ -4,7 +4,7 @@ public:
     vector<int> generateRow(int r){
         vector<int> ansRow;
         ansRow.push_back(1);
-        int ans=1;
+        long long ans=1;
         for(int i=1;i<r;i++){
             ans=ans*(r-i);
             ans=ans/i;
