@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Syndhavi/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0138-copy-list-with-random-pointer](https://github.com/Syndhavi/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/Syndhavi/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/Syndhavi/LeetCode/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Syndhavi/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/Syndhavi/LeetCode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Syndhavi/LeetCode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Syndhavi/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Syndhavi/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Syndhavi/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Syndhavi/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Syndhavi/LeetCode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Syndhavi/LeetCode/tree/master/0169-majority-element) |
 | [0493-reverse-pairs](https://github.com/Syndhavi/LeetCode/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
@@ -112,4 +115,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Syndhavi/LeetCode/tree/master/0062-unique-paths) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Syndhavi/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Syndhavi/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
