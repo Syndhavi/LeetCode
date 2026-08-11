@@ -133,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Syndhavi/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Syndhavi/LeetCode/tree/master/0229-majority-element-ii) |
+## Database
+|  |
+| ------- |
+| [0262-trips-and-users](https://github.com/Syndhavi/LeetCode/tree/master/0262-trips-and-users) |
 <!---LeetCode Topics End-->
