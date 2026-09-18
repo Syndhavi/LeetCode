@@ -1,29 +1,27 @@
 class Solution {
 public:
+
+    int helper(string &s,int i,long long num,int sign){
+        if(i>=s.size() || !isdigit(s[i])){
+            return (int)(sign*num);
+        }
+        num=num*10+(s[i]-'0');
+        if(sign*num<=INT_MIN) return INT_MIN;
+        if(sign*num>=INT_MAX) return INT_MAX;
+
+        
+
+        return helper(s,i+1,num,sign);
+    }
     int myAtoi(string s) {
         int i=0;
-        int n=s.size();
         long long num=0;
-        //leading whitespaces
-        while(i<n && s[i]==' ') i++;
-
-        //sign
+        while(i<s.size()&&s[i]==' ') i++;
         int sign=1;
-        if(i<n && (s[i]=='+'||s[i]=='-')){
-            sign=(s[i]=='-')?-1:1;
+        if(i<s.size()&&(s[i]=='-'||s[i]=='+')){
+            sign=s[i]=='-'?-1:1;
             i++;
         }
-
-        while(i<n && isdigit(s[i])){
-            int dig=s[i]-'0';
-
-            num=num*10 + dig;
-
-            if(sign*num>INT_MAX) return INT_MAX;
-            if(sign*num<INT_MIN) return INT_MIN;
-
-            i++;
-        }
-        return sign*num;
+        return helper(s,i,num,sign);
     }
 };
