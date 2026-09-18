@@ -1,27 +1,20 @@
 class Solution {
 public:
 
-    bool isvalid(string s){
-        int balance=0;
-        for(char c:s){
-            if(c=='(') balance++;
-            else balance--;
-            if(balance<0) return false;
-        }
-        return balance==0;
-    }
+    
 
-    void generateAll(string curr,int n,vector<string>& res){
+    void generateAll(string curr,int open,int close,int n,vector<string>& res){
         if(curr.length()==2*n){
-            if(isvalid(curr)) res.push_back(curr);
+            res.push_back(curr);
             return;
         }
-        generateAll(curr+'(',n,res);
-        generateAll(curr+')',n,res);
+        if(open<n) generateAll(curr+'(',open+1,close,n,res);
+        if(close<open) generateAll(curr+')',open,close+1,n,res);
+        
     }
     vector<string> generateParenthesis(int n) {
         vector<string> res;
-        generateAll("",n,res);
+        generateAll("",0,0,n,res);
         return res;
     }
 };
