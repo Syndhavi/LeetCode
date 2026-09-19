@@ -1,7 +1,7 @@
 class Solution {
 public:
     void helper(int num,int k,int n,vector<int>& ds,vector<vector<int>>& ans){
-        if(num>9){
+        if(num>9 || ds.size()==k){
             if(n==0 && ds.size()==k) ans.push_back(ds);
             return;
         }
