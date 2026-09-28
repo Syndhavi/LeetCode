@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Syndhavi/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Syndhavi/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Syndhavi/LeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Syndhavi/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0138-copy-list-with-random-pointer](https://github.com/Syndhavi/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/Syndhavi/LeetCode/tree/master/0142-linked-list-cycle-ii) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Syndhavi/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Syndhavi/LeetCode/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/Syndhavi/LeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Syndhavi/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Syndhavi/LeetCode/tree/master/0022-generate-parentheses) |
 ## Sliding Window
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Syndhavi/LeetCode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Syndhavi/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Syndhavi/LeetCode/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/Syndhavi/LeetCode/tree/master/0189-rotate-array) |
