@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Syndhavi/LeetCode/tree/master/0494-target-sum) |
 | [0704-binary-search](https://github.com/Syndhavi/LeetCode/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/Syndhavi/LeetCode/tree/master/0733-flood-fill) |
+| [0860-lemonade-change](https://github.com/Syndhavi/LeetCode/tree/master/0860-lemonade-change) |
 | [1020-number-of-enclaves](https://github.com/Syndhavi/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Syndhavi/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Syndhavi/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Syndhavi/LeetCode/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/Syndhavi/LeetCode/tree/master/0860-lemonade-change) |
 ## Quicksort
 |  |
 | ------- |
