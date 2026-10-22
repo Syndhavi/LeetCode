@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Syndhavi/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/Syndhavi/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Syndhavi/LeetCode/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/Syndhavi/LeetCode/tree/master/0455-assign-cookies) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Syndhavi/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Recursion
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Syndhavi/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/Syndhavi/LeetCode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Syndhavi/LeetCode/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/Syndhavi/LeetCode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Syndhavi/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Syndhavi/LeetCode/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/Syndhavi/LeetCode/tree/master/0494-target-sum) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Syndhavi/LeetCode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/Syndhavi/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Syndhavi/LeetCode/tree/master/0229-majority-element-ii) |
+| [0455-assign-cookies](https://github.com/Syndhavi/LeetCode/tree/master/0455-assign-cookies) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Syndhavi/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Counting
 |  |
@@ -280,4 +283,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Syndhavi/LeetCode/tree/master/0494-target-sum) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Syndhavi/LeetCode/tree/master/0455-assign-cookies) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Syndhavi/LeetCode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
