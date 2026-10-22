@@ -13,8 +13,7 @@ public:
     vector<string> letterCombinations(string digits) {
         string combo[]={"","","abc","def","ghi","jkl","mno","pqrs","tuv","wxyz"};
         vector<string> ans;
-        string s;
-        recur(0,digits,combo,s,ans);
+        recur(0,digits,combo,"",ans);
         return ans;
     }
 };
