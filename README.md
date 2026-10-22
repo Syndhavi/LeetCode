@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Syndhavi/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Syndhavi/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Syndhavi/LeetCode/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/Syndhavi/LeetCode/tree/master/0494-target-sum) |
 | [0704-binary-search](https://github.com/Syndhavi/LeetCode/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/Syndhavi/LeetCode/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/Syndhavi/LeetCode/tree/master/1020-number-of-enclaves) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Syndhavi/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Syndhavi/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Syndhavi/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0494-target-sum](https://github.com/Syndhavi/LeetCode/tree/master/0494-target-sum) |
 ## Combinatorics
 |  |
 | ------- |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Syndhavi/LeetCode/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/Syndhavi/LeetCode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Syndhavi/LeetCode/tree/master/0216-combination-sum-iii) |
+| [0494-target-sum](https://github.com/Syndhavi/LeetCode/tree/master/0494-target-sum) |
 ## Algorithm X
 |  |
 | ------- |
@@ -269,4 +272,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Syndhavi/LeetCode/tree/master/0547-number-of-provinces) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Syndhavi/LeetCode/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Syndhavi/LeetCode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
