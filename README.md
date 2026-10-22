@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Syndhavi/LeetCode/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/Syndhavi/LeetCode/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/Syndhavi/LeetCode/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/Syndhavi/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Syndhavi/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Syndhavi/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Syndhavi/LeetCode/tree/master/0054-spiral-matrix) |
 | [0733-flood-fill](https://github.com/Syndhavi/LeetCode/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/Syndhavi/LeetCode/tree/master/1020-number-of-enclaves) |
 ## Simulation
 |  |
 | ------- |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Syndhavi/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Syndhavi/LeetCode/tree/master/0733-flood-fill) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Syndhavi/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/Syndhavi/LeetCode/tree/master/1020-number-of-enclaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Syndhavi/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Syndhavi/LeetCode/tree/master/0733-flood-fill) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Syndhavi/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/Syndhavi/LeetCode/tree/master/1020-number-of-enclaves) |
 ## DP on Trees
 |  |
 | ------- |
@@ -260,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Syndhavi/LeetCode/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/Syndhavi/LeetCode/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
