@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Syndhavi/LeetCode/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/Syndhavi/LeetCode/tree/master/0733-flood-fill) |
 | [0860-lemonade-change](https://github.com/Syndhavi/LeetCode/tree/master/0860-lemonade-change) |
+| [0994-rotting-oranges](https://github.com/Syndhavi/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Syndhavi/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Syndhavi/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Syndhavi/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Syndhavi/LeetCode/tree/master/0054-spiral-matrix) |
 | [0733-flood-fill](https://github.com/Syndhavi/LeetCode/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/Syndhavi/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Syndhavi/LeetCode/tree/master/1020-number-of-enclaves) |
 ## Simulation
 |  |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Syndhavi/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Syndhavi/LeetCode/tree/master/0733-flood-fill) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Syndhavi/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/Syndhavi/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Syndhavi/LeetCode/tree/master/1020-number-of-enclaves) |
 ## DP on Trees
 |  |
