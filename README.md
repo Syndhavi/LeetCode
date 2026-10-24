@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Syndhavi/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/Syndhavi/LeetCode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Syndhavi/LeetCode/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/Syndhavi/LeetCode/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/Syndhavi/LeetCode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Syndhavi/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Syndhavi/LeetCode/tree/master/0493-reverse-pairs) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Syndhavi/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Syndhavi/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Syndhavi/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0322-coin-change](https://github.com/Syndhavi/LeetCode/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/Syndhavi/LeetCode/tree/master/0494-target-sum) |
 ## Combinatorics
 |  |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Syndhavi/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Syndhavi/LeetCode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Syndhavi/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0322-coin-change](https://github.com/Syndhavi/LeetCode/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/Syndhavi/LeetCode/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Syndhavi/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Syndhavi/LeetCode/tree/master/0733-flood-fill) |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Syndhavi/LeetCode/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/Syndhavi/LeetCode/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
@@ -309,4 +313,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Syndhavi/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Syndhavi/LeetCode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
