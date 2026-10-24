@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Syndhavi/LeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Syndhavi/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Syndhavi/LeetCode/tree/master/0022-generate-parentheses) |
+| [2409-count-days-spent-together](https://github.com/Syndhavi/LeetCode/tree/master/2409-count-days-spent-together) |
 ## Sliding Window
 |  |
 | ------- |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Syndhavi/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Syndhavi/LeetCode/tree/master/0189-rotate-array) |
 | [1922-count-good-numbers](https://github.com/Syndhavi/LeetCode/tree/master/1922-count-good-numbers) |
+| [2409-count-days-spent-together](https://github.com/Syndhavi/LeetCode/tree/master/2409-count-days-spent-together) |
 ## Bit Manipulation
 |  |
 | ------- |
