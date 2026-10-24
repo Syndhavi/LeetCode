@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0177-nth-highest-salary](https://github.com/Syndhavi/LeetCode/tree/master/0177-nth-highest-salary) |
 | [0262-trips-and-users](https://github.com/Syndhavi/LeetCode/tree/master/0262-trips-and-users) |
 ## Backtracking
 |  |
