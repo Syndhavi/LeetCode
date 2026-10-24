@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Syndhavi/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Syndhavi/LeetCode/tree/master/0022-generate-parentheses) |
 | [1360-number-of-days-between-two-dates](https://github.com/Syndhavi/LeetCode/tree/master/1360-number-of-days-between-two-dates) |
+| [2224-minimum-number-of-operations-to-convert-time](https://github.com/Syndhavi/LeetCode/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2409-count-days-spent-together](https://github.com/Syndhavi/LeetCode/tree/master/2409-count-days-spent-together) |
 ## Sliding Window
 |  |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/Syndhavi/LeetCode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Syndhavi/LeetCode/tree/master/0860-lemonade-change) |
+| [2224-minimum-number-of-operations-to-convert-time](https://github.com/Syndhavi/LeetCode/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 ## Quicksort
 |  |
 | ------- |
